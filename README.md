@@ -1,3 +1,3 @@
-# PromiseNote
+# PromiseNote（front-end-starter-kit）
 
-怎样开始你的前端
+How to start your front-end work?
