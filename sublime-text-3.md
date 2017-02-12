@@ -18,4 +18,4 @@
 ## plugins
 
 `Alignment` `babel` `Emmet` `HTML5` `less` `sass` `DocBlockr` `BracketHighlighter`
-`TrailingSpaces` `SublimeLinter` `SublimeLinter-contrib-eslint`
+`TrailingSpaces` `SublimeLinter` `SublimeLinter-contrib-eslint` `JSX` `Theme-Spacegray`
