@@ -1,2 +1,12 @@
-.sass-cache/
+dist
+node_modules
+lib
+.svn
+.DS_Store
+logs
+*.log
+npm-debug.log*
+coverage
+node_modules
+.sass-cache
 *.css.map
