@@ -8,3 +8,4 @@ How to start your front-end work?
 2. [ES6辅导书 (es6tutorial) - 阮一峰](https://github.com/ruanyf/es6tutorial)
 3. [Mockjs](http://mockjs.com/)
 4. [Expressjs](http://expressjs.com)
+5. [前端开发基础规范](https://github.com/codeMoving/Web/blob/master/WebRule/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)
