@@ -15,3 +15,4 @@ How to start your front-end work?
 4. [Expressjs](http://expressjs.com)
 5. [前端开发基础规范](https://github.com/codeMoving/Web/blob/master/WebRule/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)
 6. [JS函数式编程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese)
+7. [Fun hacks for faster content](https://jakearchibald.com/2016/fun-hacks-faster-content/)
