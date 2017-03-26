@@ -5,9 +5,9 @@ How to start your front-end work?
 ### Useful Libraries
 
 1. [IntersectionObserver-polyfill](https://github.com/WICG/IntersectionObserver/tree/gh-pages/polyfill)
-2. [Ramdajs](//ramdajs.com)
-3. [Mockjs](//mockjs.com/)
-4. [Expressjs](//expressjs.com)
+2. [Ramdajs](http://ramdajs.com)
+3. [Mockjs](http://mockjs.com/)
+4. [Expressjs](http://expressjs.com)
 
 ### Links
 
